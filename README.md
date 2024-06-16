@@ -1,2 +1,2 @@
 # WealthWizard
-Finance tracker for controlling your budget
+Finance tracker for controlling your budget.
